@@ -1,0 +1,396 @@
+id	francais
+# --- Messages du code ---
+C.21372	Erreur !
+C.2137A	Erreur !
+C.21E20	Négociation…
+C.21E2A	Marché conclu !
+C.21E44	{FF 10} gagne
+C.21E4C	Grondé par {FF 10}
+C.21E56	Félicité par {FF 10}
+C.21E60	A joué avec {FF 10}
+C.21E6A	Niveau supérieur !!
+C.21E78	Niveau inférieur !!
+C.21EC8	PAUSE
+C.21ECE	Liaison coupée.
+C.21EDA	Redémarrage…
+C.21EE6	Échange des cartes
+C.21EF4	avec les autres.
+C.21F00	Choisis un partenaire
+C.21F0E	pour l'échange.
+C.21F18	Vous échangez autant
+C.21F22	de cartes chacun.
+C.21F2A	Tu peux aussi choisir
+C.21F38	combien en échanger.
+C.21F44	8 cartes identiques
+C.21F50	et c'est gagné !
+C.21F5A	A : valider
+C.21F64	B : annuler
+# --- Calendrier : commun au chien (L24), à l'oiselle (L31), à la chatte (L32), au timide (L34) ---
+COMMUN.00	Bonjour !
+COMMUN.01	Salut !
+COMMUN.02	Bonsoir !
+COMMUN.03	Bonne nuit !
+COMMUN.04	Laisse-moi dormir encore…
+COMMUN.05	Ça va bien ?
+COMMUN.06	On fait quelque chose ?
+COMMUN.07	T'as pas un petit creux ?
+COMMUN.08	Joyeux anniversaire !
+COMMUN.09	Bonne année ! Youpi !
+COMMUN.10	Tu me donnes mes étrennes ?
+COMMUN.11	C'est la fête des majeurs !
+COMMUN.12	Du chocolat, du chocolat !
+COMMUN.13	C'est la fête des poupées !
+COMMUN.14	Bientôt les cerisiers en fleur !
+COMMUN.15	Vive les ponts de mai !
+COMMUN.16	C'est la fête des enfants !
+COMMUN.17	Tu fais quoi, quand il pleut ?
+COMMUN.18	La mer ! La mer ! La mer !
+COMMUN.19	Vivement les vacances !
+COMMUN.20	Prends soin des anciens !
+COMMUN.21	Les tempêtes, ça t'excite ?
+COMMUN.22	La montagne, ça me tente.
+COMMUN.23	Culture ! Dé-cul-ture !
+COMMUN.24	Il commence à faire froid.
+COMMUN.25	Je peux hiberner ?
+COMMUN.26	Joyeux Noël !
+COMMUN.27	Dernier jour de l'année !
+COMMUN.28	J'aimerais voir la neige.
+COMMUN.29	C'est marrant, le ski ?
+# --- Chien (L24) : crâneur ---
+L24.30	Aujourd'hui, je suis au top !
+L24.31	On va où ?
+L24.32	J'ai la classe, hein ?
+L24.33	Laisse-moi faire !
+L24.34	Me touche pas comme ça !
+L24.35	Viens, on joue !
+L24.36	Les tours de cirque ? Non !
+L24.37	Tu veux voir mon coup secret ?
+L24.38	Je sens que je vais évoluer…
+L24.39	J'ai pris de la bouteille !
+L24.40	Oups ! Ça sent le roussi !
+L24.41	Moi, c'est {FF 02} !
+L24.42	Je suis crevé…
+L24.43	Je peux aller me balader ?
+L24.44	Aïe ! Une carie !
+L24.45	Tu vois mes taches, au moins ?
+L24.46	Pas de bain !
+L24.47	Allez, dis que je suis beau !
+L24.48	Reste pas derrière moi !
+L24.49	Prends ça ! Beuaaark !
+L24.50	Y a pas un truc à faire ?
+L24.51	Me tape pas, ou gare à toi !
+L24.52	Ah…
+L24.53	Je veux un gros os à ronger !
+L24.54	Du porc, du poulet… Miam ?
+L24.55	Tu fais quoi ?
+L24.56	Plein de boue sous les pattes.
+L24.57	Yo ! La forme ?
+L24.58	À la course, j'suis imbattable !
+L24.59	Fais pas trop le familier !
+L24.60	T'es né le {FF 01}/{FF 00}, c'est ça ?
+L24.61	{FF 03}, j'en boufferais bien !
+L24.62	{FF 04} ? Tu détestes ça ?
+L24.63	T'aimes bien {FF 05}, hein ?
+L24.64	Tu peux pas voir {FF 06} !?
+L24.65	{FF 07}, ça te dit ?
+# --- Oiselle (L31) : enjouée ---
+L31.30	Je me sens légère !
+L31.31	Je vais jusqu'où ?
+L31.32	Faut lisser ses plumes !
+L31.33	Compte sur moi, sur moi !
+L31.34	Me cours pas après, hein !
+L31.35	On fait quoi ?
+L31.36	Faut que je picore tout !
+L31.37	J'adore barboter !
+L31.38	J'ai envie de shopping !
+L31.39	Oh non ! On me regarde !
+L31.40	Tu crois que je sais voler ?
+L31.41	Moi, c'est {FF 02} ! Enchantée !
+L31.42	Les chats, c'est pénible, non ?
+L31.43	Je peux te picorer ?
+L31.44	J'ai comme un pressentiment…
+L31.45	Trois pas, et j'oublie tout !
+L31.46	Hein !? T'es qui, toi ???
+L31.47	Des caresses, des caresses !
+L31.48	Cuiiii…
+L31.49	Pourquoi j'ai cette couleur ?
+L31.50	Je suis née dans un œuf !
+L31.51	Oh ? J'avais oublié.
+L31.52	Botte secrète : coups de bec !
+L31.53	Tu fais quoi, demain ?
+L31.54	Ce bec, il me gêne…
+L31.55	Dernier modèle : bipède !
+L31.56	Ouh ! J'y vois rien !
+L31.57	Dis… je peux faire un câlin ?
+L31.58	T'as du mal le matin, toi ?
+L31.59	Je suis où, là ?
+L31.60	Ton anniv', c'est le {FF 01}/{FF 00} ?
+L31.61	{FF 03}, j'en picorerais bien !
+L31.62	{FF 04} ? Tu détestes ça ?
+L31.63	Tu aimes bien {FF 05} ?
+L31.64	Tu supportes pas {FF 06} !?
+L31.65	{FF 07}, ça te tente ?
+# --- Chatte (L32) : coquette ---
+L32.30	Je suis de bonne humeur !
+L32.31	Une course à faire ?
+L32.32	Soigne un peu ton look !
+L32.33	Laisse-moi faire !
+L32.34	Arrête de me tripoter !
+L32.35	On joue ?
+L32.36	Miaouuu…
+L32.37	J'adore le soleil !
+L32.38	Balade ! Balade !
+L32.39	Oups ! Repérée !
+L32.40	Oh ! Catastrophe !
+L32.41	Moi, c'est {FF 02}.
+L32.42	J'adore la sieste !
+L32.43	Petite ronde d'inspection.
+L32.44	Kyaa ! Mes moustaches !
+L32.45	Joli pelage, hein ?
+L32.46	Le bain, j'ai peur !
+L32.47	Rrrrron… Miaou…
+L32.48	Y a quelque chose à chasser ?
+L32.49	Fffff ! Chhhh !
+L32.50	Ma queue bouge toute seule !
+L32.51	Coup de patte !
+L32.52	Ah…
+L32.53	Un oiseau ! Ma patte s'agite…
+L32.54	Hm ? Tu m'as appelée ?
+L32.55	Je devais faire quoi, déjà ?
+L32.56	Cette odeur…
+L32.57	Y a des traces de pattes.
+L32.58	Là, laisse-moi tranquille.
+L32.59	Dis… Non, rien.
+L32.60	Ton anniversaire : le {FF 01}/{FF 00} ?
+L32.61	{FF 03}, ça me ferait envie…
+L32.62	{FF 04} ? Tu détestes ça ?
+L32.63	Tu aimes bien {FF 05} ?
+L32.64	Tu ne supportes pas {FF 06} !?
+L32.65	{FF 07}, ça te tente ?
+# --- Robot (L33) : majuscules, phrases de machine, vouvoie ---
+L33.00	BONJOUR. BIP.
+L33.01	SALUTATIONS.
+L33.02	BONSOIR. BIP BIP.
+L33.03	MISE EN VEILLE.
+L33.04	VEILLE PROLONGÉE REQUISE.
+L33.05	ÉTAT DE SANTÉ : OK ?
+L33.06	ACTIVITÉ À LANCER ?
+L33.07	NIVEAU DE FAIM ?
+L33.08	JOYEUX ANNIVERSAIRE.
+L33.09	NOUVEL AN. JOIE MAXIMALE.
+L33.10	ÉTRENNES : À VERSER.
+L33.11	FÊTE DES MAJEURS.
+L33.12	CHOCOLAT. CHOCOLAT.
+L33.13	FÊTE DES POUPÉES.
+L33.14	FLORAISON IMMINENTE.
+L33.15	PONTS DE MAI. YOUPI.
+L33.16	FÊTE DES ENFANTS.
+L33.17	PLUIE. ACTIVITÉ ?
+L33.18	MER ! MER ! MER !
+L33.19	VACANCES EXIGÉES.
+L33.20	RESPECT DES ANCIENS : OUI.
+L33.21	TEMPÊTE. CŒUR EN ÉBULLITION.
+L33.22	MONTAGNE : OPTION VALIDE.
+L33.23	CULTURE ! DÉ-CUL-TURE !
+L33.24	TEMPÉRATURE EN BAISSE.
+L33.25	HIBERNATION AUTORISÉE ?
+L33.26	JOYEUX NOËL. BIP.
+L33.27	FIN D'ANNÉE. ARCHIVAGE.
+L33.28	NEIGE : SOUHAITÉE.
+L33.29	LE SKI : AMUSANT ?
+L33.30	ENDURANCE : 120.
+L33.31	SPÉCIALITÉ : ATTENDRE.
+L33.32	PROPRE ET BRILLANT.
+L33.33	UNE LIVRAISON ?
+L33.34	PUISSANCE : 70.
+L33.35	QUE FAIRE, DONC ?
+L33.36	OH !? PEINTURE ÉCAILLÉE !
+L33.37	ONDES TOXIQUES CAPTÉES !
+L33.38	OH !? PEINTURE ÉCAILLÉE !
+L33.39	ZZZZ… HMM !
+L33.40	REGARD DÉTECTÉ. ESQUIVE !
+L33.41	ALERTE ! URGENCE !
+L33.42	JE SUIS {FF 02}.
+L33.43	BOUCHE : PAS UNE POUBELLE.
+L33.44	PAS DE GRIBOUILLIS !
+L33.45	DÉMARCHAGE REFUSÉ.
+L33.46	OUPS. FEUILLE AVALÉE.
+L33.47	CIRE : 2 COUCHES.
+L33.48	RECHARGE REQUISE.
+L33.49	SURVEILLANCE EN COURS.
+L33.50	NE PAS TAPER SANS RAISON.
+L33.51	RAYON D'ÉNERGIE : FEU !
+L33.52	HMM. ACTION IMPOSSIBLE.
+L33.53	O+X!?O:X+?!
+L33.54	QUELQU'UN M'APPELLE.
+L33.55	EN ATTENTE D'ORDRES.
+L33.56	ÉLU PAR CETTE CRAPULE…
+L33.57	QUE FAITES-VOUS ?
+L33.58	DÉJÀ CETTE HEURE-LÀ.
+L33.59	18 H ! TOUT LE MONDE DEHORS !
+L33.60	TOUT EST ÉPHÉMÈRE.
+L33.61	NAISSANCE : LE {FF 01}/{FF 00} ?
+L33.62	{FF 03} : ENVIE DÉTECTÉE.
+L33.63	{FF 04} : DÉTESTÉ ?
+L33.64	VOUS AIMEZ {FF 05} ?
+L33.65	VOUS DÉTESTEZ {FF 06} !?
+L33.66	{FF 07} : SOUHAITÉ ?
+# --- Petite bête timide et polie (L34) ---
+L34.30	Je me sens bien, aujourd'hui.
+L34.31	Je livre ça où ?
+L34.32	Elle te plaît, ma silhouette ?
+L34.33	OK !
+L34.34	Ouah ! Me fais pas peur !
+L34.35	On fait quoi ?
+L34.36	Gros mangeur, zéro talent…
+L34.37	J'ai l'air de rien, mais propre !
+L34.38	J'aimerais bien sortir…
+L34.39	Ah ! On m'a vu !
+L34.40	J'aimerais voler…
+L34.41	Je m'appelle {FF 02}. Enchanté.
+L34.42	Un chien m'a coursé. Snif…
+L34.43	T'as pas un petit truc ?
+L34.44	Je suis doué, hein ?
+L34.45	Me fais pas peur…
+L34.46	Je suis un peu froussard.
+L34.47	À manger en vue !!!
+L34.48	Y a rien qui traîne par terre ?
+L34.49	Oh ! Vite, les toilettes !
+L34.50	Tu aimes le porc ?
+L34.51	Pour fuir, je suis rapide.
+L34.52	Hmmm… Oh !
+L34.53	J'adore les patates.
+L34.54	Tu fais quoi ?
+L34.55	J'aimerais des vacances…
+L34.56	Un régime, ça se mange ?
+L34.57	J'ai faim…
+L34.58	Ma queue, j'en suis fier.
+L34.59	Une douche ensemble ?
+L34.60	Ton anniversaire : le {FF 01}/{FF 00} ?
+L34.61	{FF 03}… J'en mangerais bien.
+L34.62	{FF 04} ? Tu détestes ça ?
+L34.63	Tu aimes bien {FF 05} ?
+L34.64	Tu ne supportes pas {FF 06} !?
+L34.65	{FF 07}, ça te tente ?
+# --- Répliques d'action en partie (L35) : 11 par bête ---
+# 0 départ, 1 ordre reçu, 2 arrivée chez l'autre, 3 retour, 4 mauvaise carte, 5 bonne carte,
+# 6 grondé, 7 félicité, 8 oubli, 9 plus malin, 10 perdu puis retrouvé
+L35.00	Allez, on fonce !
+L35.01	OK ! Compte sur moi !
+L35.02	Prends ça !
+L35.03	Je suis de retour !
+L35.04	Beurk ! Nulle, cette carte !
+L35.05	Impeccable !
+L35.06	Aïe ! Ça fait mal !
+L35.07	Encore, encore !
+L35.08	J'ai oublié un truc !
+L35.09	Je suis devenu plus malin !
+L35.10	Je m'étais perdu !
+L35.11	Allez, c'est parti !
+L35.12	Facile, ça !
+L35.13	Je peux entrer ?
+L35.14	Me revoilà !
+L35.15	Kyaa ! Carte pourrie !
+L35.16	Super !
+L35.17	Aïeuh !
+L35.18	Ça fait du bien !
+L35.19	… C'était quoi, déjà ?
+L35.20	Je suis trop maligne !
+L35.21	J'ai eu peur !
+L35.22	J'y vais !
+L35.23	À tout à l'heure !
+L35.24	Coucou, me voilà !
+L35.25	Je suis rentrée !
+L35.26	Hein ?! Oh non !
+L35.27	Génial !!
+L35.28	Ouch ! Ça pique !
+L35.29	Je pourrais y prendre goût…
+L35.30	J'oublie tout !
+L35.31	J'ai une idée !!
+L35.32	Ouf ! Rentrée !
+L35.33	J'y vais…
+L35.34	Go ! Go ! Go !
+L35.35	Je l'ai apporté !
+L35.36	Ouf, je suis fatigué.
+L35.37	Pfff !! Bizarre !
+L35.38	Youpi ! J'ai de la chance !
+L35.39	Pouet ! Ça saigne du nez !
+L35.40	J'ai envie de danser !
+L35.41	???? Oublié !!
+L35.42	Je suis peut-être un génie !
+L35.43	Je crois que je suis perdu…
+L35.44	DÉMARRAGE.
+L35.45	DÉCOLLAGE !
+L35.46	CIBLE CONFIRMÉE.
+L35.47	MISSION ACCOMPLIE.
+L35.48	CARTE INCOMPRÉHENSIBLE…
+L35.49	COMME PRÉVU.
+L35.50	ANOMALIE DÉTECTÉE.
+L35.51	PUISSANCE EN HAUSSE.
+L35.52	ERREUR MÉMOIRE.
+L35.53	MÉMOIRE SAUVEGARDÉE.
+L35.54	CIBLE PERDUE.
+# --- Menus de partie (5 tuiles utiles = 40 px) ---
+C.21E00	Échanger
+C.21E04	Mail
+C.21E08	Bestiole
+C.21E0C	Envoyer
+C.21E10	Gronder
+C.21E14	Féliciter
+C.21E18	Jouer
+C.21E1C	Gagner
+# --- Liste 4 : titre, clavier de profil (monospace, police chargée en tuiles), invites du profil ---
+# Rangées du clavier : mêmes caractères que la table du clavier des messages (tools/clavier.py).
+L04.00	Appuie sur A
+L04.01	ABCDE FGHIJ !  min
+L04.02	KLMNO PQRST ?  ABC
+L04.03	UVWXY Z ' - .
+L04.04	ÉÈÊËÀ ÇÔÎŒ« ,  OK 
+L04.05	():;/ «»…"~ +
+L04.06	<=>+- ♡',.! ?
+L04.07	01234 56789
+L04.08	abcde fghij !  MAJ
+L04.09	klmno pqrst ?  ABC
+L04.10	uvwxy z ' - .
+L04.11	éèêëà çôîœû ,  OK 
+L04.12	ùüâïî «»…"~ +
+L04.13	():;/ <=>+- ♡
+L04.14	01234 56789
+L04.15	ABCDE FGHIJ {2D}  min
+L04.16	KLMNO PQRST {B9}  MAJ
+L04.18	abcde fghij {BE}  OK 
+L04.22	Nom
+L04.23	Ton nom ?
+L04.24	 
+L04.25	ID
+L04.26	Ton numéro
+L04.27	 ID ?
+L04.28	Anniv.  /   
+L04.29	Ton anniv.
+L04.30	 M/J ?
+L04.31	Aime
+L04.32	 Ton plat
+L04.33	 favori ?
+L04.34	Hait
+L04.35	 Ton pire
+L04.36	 plat ?
+L04.37	Aime
+L04.38	 Ton grand
+L04.39	 ami(e) ?
+L04.40	Hait
+L04.41	 Ta bête
+L04.42	 noire ?
+L04.43	Veut
+L04.44	 Ton envie
+L04.45	du jour ?
+L04.46	Nom
+L04.47	Son nom ?
+L04.48	 
+L04.49	Choisis.
+L04.54	Trouvé !
+L04.55	Aucun trouvé.
+# --- Divers (écran de résultats, bulle « la bestiole de ») ---
+C.21E36	Bestiole de {FF 10}
+C.2202A	Gagné !
+C.22030	Perdu !
+C.22036	Gagné !
